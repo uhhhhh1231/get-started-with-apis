@@ -1,3 +1,3 @@
 # Get started with apis
 
-First download 
+First download the main folder
